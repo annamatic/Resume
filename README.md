@@ -31,8 +31,8 @@ Part-time, \~10 hrs/week (2010-2016)
 * Translated a high-friction, regulated billing process into a calm, intuitive interface — using smart defaults and behavioral design patterns to integrate seamlessly into providers' scheduling and billing workflows.
 * Partnered with engineers to ship a product that met strict HIPAA privacy requirements while remaining easy for busy clinicians to use every day on their personal phone.
 * Implemented the claims form as timely micro-tasks, defaulting to diagnosis codes with smart logic, cutting billing time to under a minute per client (customer testimonial).
-#### **Canary \| Contract Designer, Walmart Associates in Critical Need Trust
-** Part-time, \~25 hrs/week (September 2019 – April 2020\)
+#### **Canary \| Contract Designer, Walmart Associates in Critical Need Trust**
+Part-time, \~25 hrs/week (September 2019 – April 2020\)
 * Mapped the user journey for applicants, from finding out if they should apply to finding out whether they received the grant. Created a high-level service map of applicant and case-manager touchpoints so that the team could align with stakeholders on where communications were most needed.
 * Wrote interview guides and surveys for store managers to gather applicant feedback, pivoting from planned in-person research during the pandemic lockdown. 
 * To adapt to the shortened work timeline, I focused feedback-gathering on one high-impact feature, ultimately providing Walmart with the evidence they needed to expand accepted documentation of financial need to include flexible income & expense reporting instead of requiring applicants to submit past-due bills.
