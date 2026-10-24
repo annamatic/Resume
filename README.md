@@ -39,7 +39,8 @@ Part-time, \~25 hrs/week (September 2019 – April 2020\)
 * Developed a mobile-first, interactive eligibility quiz based on ACNT’s paper guidelines, to help associates understand whether they should apply. ​​Created an end-to-end prototype of the ACNT application as well as a logic table to finalize hand-off to engineering.
 
 ### **Blue Ridge Labs @ Robin Hood Foundation** 
-Fellow, Full-time 
+Fellow
+Full-time 
 June 2018 – October 2018
 * Rapidly prototyped and pitched ideas for low-income New Yorkers. With a team, built a proof-of-concept, trauma-informed, mobile-first job-search app for formerly incarcerated jobseekers, optimized for small screens and limited broadband and designed to WCAG AA. 
 * Conducted community-based research (in-depth interviews and co-design sessions) with New York jobseekers and workforce case managers.
