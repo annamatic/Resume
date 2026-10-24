@@ -40,8 +40,7 @@ Part-time, \~25 hrs/week (September 2019 – April 2020\)
 
 ### **Blue Ridge Labs @ Robin Hood Foundation** 
 Fellow
-Full-time 
-June 2018 – October 2018
+Full-time, June 2018 – October 2018
 * Rapidly prototyped and pitched ideas for low-income New Yorkers. With a team, built a proof-of-concept, trauma-informed, mobile-first job-search app for formerly incarcerated jobseekers, optimized for small screens and limited broadband and designed to WCAG AA. 
 * Conducted community-based research (in-depth interviews and co-design sessions) with New York jobseekers and workforce case managers.
 
