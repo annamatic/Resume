@@ -15,25 +15,32 @@ Full-time, July 2022 – Present
 * Champion accessibility and ship responsive, bilingual (English/Spanish) designs that meet federal standards.
 * Example case study: Led design sprints to define the problem space and design a modular solution for improving Special Needs Plans findability. Contributed to doubling beneficiary exposure to these specialized plans and a 7x increase in “Medicare and Medicaid” filter use
 
-### **Annamatic Brand & Product Design \| Principal**   Freelance, concurrent with other engagements Part-time, 2005-2022
-#### **AutoSlash & HotelSlash \| Brand & UX Designer** Part-time, \~10 hrs/week @AutoSlash (2010-2016) and @HotelSlash (2018-2022)
+### **Annamatic Brand & Product Design \| Principal**   
+Freelance, concurrent with other engagements 
+Part-time, 2005-2022
+#### **AutoSlash & HotelSlash \| Brand & UX Designer** 
+Part-time, \~10 hrs/week @AutoSlash (2010-2016) and @HotelSlash (2018-2022)
 * Sole designer for two travel booking products for over a decade, owning brand strategy, early viability tests, and the interfaces and flows customers use today. 
 * Distilled pricing and availability data into clear, just-in-time messaging. Established information hierarchy, reducing cognitive load for users navigating time-sensitive booking decisions.
 * Built and maintained design libraries ensuring two distinct travel products delivered visually consistent end-to-end experiences across media types, including laptop, mobile & email.
 * Established a recurring feedback loop with the customer support team to surface issues, design solutions, and partner with engineers to implement and test improvements.
 * Example case study: Designed a low-barrier MVP onboarding, inviting early customers to try price tracking by forwarding their already booked hotel confirmation to a dedicated inbox. With a 3-step visual progress tracker, the email strategy kept potential customers invested in rebooking with HotelSlash to capture savings. This MVP strategy helped to focus HotelSlash’s initial scope, and quickly brought in 100’s of early users so the business could optimize its tracking algorithm before launch. Three years post-launch, even as HotelSlash runs a full booking portal with user accounts, the booking confirmation inbox continues to bring in 15% of HotelSlash’s new customers. 
-#### **Electronic Remedy \| Exclaim App** Part-time, \~10 hrs/week (2010-2016)
+#### **Electronic Remedy \| Exclaim App** 
+Part-time, \~10 hrs/week (2010-2016)
 * Led end-to-end design for Exclaim, a secure mobile app helping mental health providers manage insurance claims and billing without getting buried in paperwork.
 * Translated a high-friction, regulated billing process into a calm, intuitive interface — using smart defaults and behavioral design patterns to integrate seamlessly into providers' scheduling and billing workflows.
 * Partnered with engineers to ship a product that met strict HIPAA privacy requirements while remaining easy for busy clinicians to use every day on their personal phone.
 * Implemented the claims form as timely micro-tasks, defaulting to diagnosis codes with smart logic, cutting billing time to under a minute per client (customer testimonial).
-#### **Canary \| Contract Designer, Walmart Associates in Critical Need Trust** Part-time, \~25 hrs/week (September 2019 – April 2020\)
+#### **Canary \| Contract Designer, Walmart Associates in Critical Need Trust
+** Part-time, \~25 hrs/week (September 2019 – April 2020\)
 * Mapped the user journey for applicants, from finding out if they should apply to finding out whether they received the grant. Created a high-level service map of applicant and case-manager touchpoints so that the team could align with stakeholders on where communications were most needed.
 * Wrote interview guides and surveys for store managers to gather applicant feedback, pivoting from planned in-person research during the pandemic lockdown. 
 * To adapt to the shortened work timeline, I focused feedback-gathering on one high-impact feature, ultimately providing Walmart with the evidence they needed to expand accepted documentation of financial need to include flexible income & expense reporting instead of requiring applicants to submit past-due bills.
 * Developed a mobile-first, interactive eligibility quiz based on ACNT’s paper guidelines, to help associates understand whether they should apply. ​​Created an end-to-end prototype of the ACNT application as well as a logic table to finalize hand-off to engineering.
 
-### **Blue Ridge Labs @ Robin Hood Foundation** Fellow, Full-time June 2018 – October 2018
+### **Blue Ridge Labs @ Robin Hood Foundation** 
+Fellow, Full-time 
+June 2018 – October 2018
 * Rapidly prototyped and pitched ideas for low-income New Yorkers. With a team, built a proof-of-concept, trauma-informed, mobile-first job-search app for formerly incarcerated jobseekers, optimized for small screens and limited broadband and designed to WCAG AA. 
 * Conducted community-based research (in-depth interviews and co-design sessions) with New York jobseekers and workforce case managers.
 
